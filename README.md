@@ -1,7 +1,6 @@
 # IT Job Watch Repo and Code
 
 
-
 ## Setting Up
 
 Describe how to setup a Local Environment
@@ -9,7 +8,7 @@ Describe how to setup a Local Environment
 ### Getting the Code
 
 ```
-  git clone <repo ssh or https>
+  git clone <repo ssh or http>
 ```
 
 ### Creating a Development Environment
@@ -33,5 +32,3 @@ Output of app and report go to:
 ```
   /home/vagrant/Downloads
 ```
-
-## TESTING TO SEE IF CHANGES WERE MADE!
